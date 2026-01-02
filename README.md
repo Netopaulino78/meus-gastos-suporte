@@ -1,5 +1,3 @@
-# meus-gastos-suporte
-Página de suporte do aplicativo Meus Gastos
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
